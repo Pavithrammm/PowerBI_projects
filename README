@@ -1,0 +1,53 @@
+
+# 📊 Sales Analytics Dashboard – Power BI Project
+
+## 📌 Project Overview
+
+This project showcases an **interactive Sales Analytics Dashboard** built using **Power BI** to analyze and visualize sales performance for the **First Quarter of 2024**. The dashboard helps stakeholders quickly understand key business metrics and identify sales trends for better decision-making.
+
+## 🎯 Objectives
+
+* Monitor overall sales performance
+* Identify top-selling products and regions
+* Analyze customer purchasing behavior
+* Understand the impact of discounts on sales
+
+## 📈 Key Features
+
+* **KPI Cards:** Total Customers, Total Quantity, Total Sales, Average Sales
+* **Top Insights:**
+
+  * Top Selling Product
+  * Top Selling Region
+  * Most Used Payment Mode
+  * Top Buyer
+* **Visual Analysis:**
+
+  * Sales by Category (Furniture, Office Supplies, Electronics)
+  * Discount vs. Sales Relationship
+* **Interactive Filters & Slicers** for dynamic analysis
+
+## 🛠️ Tools & Technologies
+
+* **Power BI**
+* **DAX (Data Analysis Expressions)**
+* **Data Modeling & Visualization**
+
+## 📊 Business Insights
+
+* Identifies high-performing categories and regions
+* Highlights customer and payment preferences
+* Reveals how discounts influence sales performance
+
+## 📁 Project Files
+
+* Sales_report_analysis.pbix
+* Sample Sales Dataset
+* Dashboard Screenshot
+
+
+## 🚀 Outcome
+
+This project demonstrates practical skills in **data analysis, DAX calculations, dashboard design, and business insight storytelling**, making it suitable for real-world analytics and reporting scenarios.
+
+
